@@ -21,7 +21,6 @@ This is a Node.js webhook that listens to Jira issue updates and sends formatted
 
    ```bash
    npm install
-
    ```
 
 3. **Deploy**
@@ -31,4 +30,4 @@ This is a Node.js webhook that listens to Jira issue updates and sends formatted
 4. **Configure Jira Webhook:**
 
 - Add a webhook in Jira pointing to:
-  https://splashy-nonchalant-inch/webhook
+  https://your-own-server.glitch.me/webhook
